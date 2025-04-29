@@ -18,7 +18,7 @@ This project showcases how to set up and configure **Snort** on Ubuntu to detect
 NIDS_Project/
 ├── snort_install_script.sh
 ├── sample_alert_logs.txt
-├── nids_report.pdf (placeholder)
+├── nids_report.pdf 
 └── README.md
 ```
 
