@@ -33,9 +33,9 @@ NIDS_Project/
 - **SSH Brute Force** - Multiple login attempts from `192.168.1.20`
 
 ## 🧾 Files
-- `snort_install_script.sh` – Auto-installs Snort
-- `sample_alert_logs.txt` – Sample alert entries
-- `nids_report.pdf` – Placeholder for detailed PDF report
+- [`snort_install_script.sh`](`snort_install_script.sh`) – Auto-installs Snort
+- [ `sample_alert_logs.txt`]( `sample_alert_logs.txt`) – Sample alert entries
+- [`nids_report.pdf`]( `nids_report.pdf`) – for detailed PDF report
 
 ---
 **Author:** Bashiru Sadiq  
